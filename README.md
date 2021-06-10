@@ -1,16 +1,10 @@
-# first_app
+# Wordpair Generator App
 
-A new Flutter project.
+An app that can generate wordpairs. As the user scrolls, more words can be created. The user can also favorite some words that they like and access those words in a separate page. 
 
-## Getting Started
+This is my first app created using flutter. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools Used:
+* Google Codelabs Part 1 of the Codelab [link to part 1 of google codelabs](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
+* Google Codelabs Part 2 of the Codelab [link to part 2 of google codelabs](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0)
+* English Words package in Dart
